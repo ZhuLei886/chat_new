@@ -107,9 +107,9 @@ export default function Header() {
         </div>
         <ThemeToggle />
 
-        <span class="ml-1 font-extrabold text-slate-7 dark:text-slate"
-        ><a style="font-size:18px" href="https://nav.iculture.cc" target="_blank">FancyPig导航站</a></span
-        >
+        {/*<span class="ml-1 font-extrabold text-slate-7 dark:text-slate"*/}
+        {/*><a style="font-size:18px" href="https://nav.iculture.cc" target="_blank">FancyPig导航站</a></span*/}
+        {/*>*/}
         <p mt-1 text-slate op-60>gpt-3.5-turbo(4k)</p>
 
 

@@ -19,7 +19,7 @@ export const defaultEnv = {
     APIModel: "gpt-3.5-turbo" as Model
   },
   CLIENT_DEFAULT_MESSAGE: `
-- 防止失联(这个网站进不来，又没有加WX的可以收藏一下备用网站 [备用chat](https://chat4.zhulei.xyz))、咨询买号(有GPT-4)、买key、接个人镜像站建站可公众号👉 [私信](gzh.jpg)
+- 防止失联(这个网站进不来，又没有加WX的可以收藏一下备用网站 [备用chat](https://chat10.zhulei.xyz))、咨询买号(有GPT-4)、买key、接个人镜像站建站可公众号👉 [私信](gzh.jpg)
 - 感谢大家的打赏，如果想体验GPT-4的可以关注下👉 [公众号](gzh.jpg) 加一下体验群，后续会更新
 - 你可以用TA聊天、翻译、创作、编程、撰写文案、营销策划、法律咨询、知识学习等等，提交学习工作效率！如果本项目对你有所帮助，可以给小猫 [买点零食](/zsm.jpg).
 - 这个新网站大家需要用自己的key,我也会在公众号里更新一些key
